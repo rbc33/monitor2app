@@ -12,3 +12,6 @@ modulegraph==0.19.5
 psutil==5.9.5
 py2app==0.28.6
 setuptools==68.1.0; python_version >= '3.8'
+
+
+pending tk GUI and or open new terminal
